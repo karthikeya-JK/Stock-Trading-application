@@ -61,7 +61,7 @@ async function run() {
       name: 'Karthikeya JK',
       email: 'karthikeya832006@gmail.com'
     },
-    message: 'Feat: Crash-proof Trading History, live audit summary statistics, multi-mode chart engine, and backend timestamp enforcements'
+    message: 'Chore: Add industry-standard .gitignore for root, server, and client directories to protect node_modules and secrets'
   });
   console.log('✅ Commit created successfully! Commit SHA:', sha);
 
@@ -87,8 +87,7 @@ async function run() {
         http,
         dir,
         remote: 'origin',
-        ref: 'main',
-        onAuth: () => ({ username: token, password: '' })
+        onAuth: () => ({ username: 'karthikeya-JK', password: token })
       });
       console.log('🚀 Successfully pushed to GitHub origin/main!', pushRes);
     } catch (pushErr) {
