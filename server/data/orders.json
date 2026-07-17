@@ -1,0 +1,39 @@
+[
+  {
+    "_id": "70d341ca3d87dcacadcc6ca6",
+    "user": "karthikeya832006@gmail.com",
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "price": 183.25,
+    "count": 1,
+    "totalPrice": 183.25,
+    "stockType": "delivery",
+    "orderType": "buy",
+    "orderStatus": "completed"
+  },
+  {
+    "_id": "bc7f33f2c574fc7e14b885e9",
+    "user": "karthikeya832006@gmail.com",
+    "symbol": "MSFT",
+    "name": "Microsoft Corp.",
+    "price": 463.59,
+    "count": 1,
+    "totalPrice": 463.59,
+    "stockType": "delivery",
+    "orderType": "buy",
+    "orderStatus": "completed"
+  },
+  {
+    "_id": "ff9c83ed25869451ba29c6bd",
+    "user": "karthikeya832006@gmail.com",
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 446.13,
+    "count": 10,
+    "totalPrice": 4461.3,
+    "stockType": "intraday",
+    "orderType": "buy",
+    "orderStatus": "completed",
+    "time": "2026-07-17T08:49:09.143Z"
+  }
+]

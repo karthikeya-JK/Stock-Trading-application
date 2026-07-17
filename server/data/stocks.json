@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "be9dd0ec2b0c38f111d94f13",
+    "user": "karthikeya832006@gmail.com",
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "price": 183.25,
+    "count": 1,
+    "totalPrice": 183.25,
+    "stockExchange": "NYSE"
+  },
+  {
+    "_id": "6e7e21324592d57d7f78f6e1",
+    "user": "karthikeya832006@gmail.com",
+    "symbol": "MSFT",
+    "name": "Microsoft Corp.",
+    "price": 463.59,
+    "count": 1,
+    "totalPrice": 463.59,
+    "stockExchange": "NYSE"
+  },
+  {
+    "_id": "ed3284de6eecf69d4f636916",
+    "user": "karthikeya832006@gmail.com",
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 446.13,
+    "count": 10,
+    "totalPrice": 4461.3,
+    "stockExchange": "NYSE"
+  }
+]

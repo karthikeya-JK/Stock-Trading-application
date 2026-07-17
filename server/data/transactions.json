@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "606bcc6143885c5e69895eb4",
+    "user": "karthikeya832006@gmail.com",
+    "type": "DEPOSIT",
+    "paymentMode": "upi",
+    "amount": 500,
+    "time": "2026-07-06T17:36:14.056Z"
+  },
+  {
+    "_id": "6a7b5e1903e2144ede262e36",
+    "user": "karthikeya832006@gmail.com",
+    "type": "BUY",
+    "paymentMode": "wallet",
+    "amount": 183.25,
+    "time": "2026-07-06T17:36:39.981Z"
+  },
+  {
+    "_id": "700d2fa8cf01eb4820248833",
+    "user": "karthikeya832006@gmail.com",
+    "type": "BUY",
+    "paymentMode": "wallet",
+    "amount": 463.59,
+    "time": "2026-07-07T09:43:22.019Z"
+  },
+  {
+    "_id": "a0d2c8cac9ebe003cb41b204",
+    "user": "karthikeya832006@gmail.com",
+    "type": "BUY",
+    "paymentMode": "wallet",
+    "amount": 4461.3,
+    "time": "2026-07-17T08:49:09.143Z"
+  }
+]
